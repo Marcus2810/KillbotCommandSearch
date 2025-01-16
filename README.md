@@ -6,6 +6,9 @@ KILLBOT LTD, command search scanner.
 
 So this is command search scanner that I made a while ago out of fear I didn't want to share it but, today is the day I deliver it to you.
 
+
+I was worred the keys were the same for other systems, so I didn't want to share it till now.
+
 It is a vectorized search engine, for finding vulnerabilities.
 
 I found 1304 vulnerabilities related to Chinese owned AWS proxies, and sortinging using pandas in my second version I will be updating soon so called 0.2, where I searched using.
