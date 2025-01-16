@@ -2,7 +2,7 @@
 
 
 
-KILLBOT LTD, command search scanner.
+KILLBOT LTD, command search scanner. 0.1
 
 So this is command search scanner that I made a while ago out of fear I didn't want to share it but, today is the day I deliver it to you.
 
