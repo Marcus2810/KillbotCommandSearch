@@ -19,3 +19,6 @@ I may be wrong, but I believe work around the iptables firewall and who knows wh
 
 I will be updating this with a patch tomorrow, to all the things, I think that it's important for and also that these illegal command placed by unknown
 attacker attach themselves to firewall interfaces I made, and custom firewalls.
+
+
+The precentages are off, but the found values are not
