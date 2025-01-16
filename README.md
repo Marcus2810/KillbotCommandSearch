@@ -24,5 +24,9 @@ attacker attach themselves to firewall interfaces I made, and custom firewalls.
 The precentages are off, but the found values are not
 
 
+Change the commands here 
+
+self.tags = np.array(['iptables','ip6tables'])
+
 
 python killbot_command_scanner.py /
