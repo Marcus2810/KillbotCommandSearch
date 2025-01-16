@@ -22,3 +22,7 @@ attacker attach themselves to firewall interfaces I made, and custom firewalls.
 
 
 The precentages are off, but the found values are not
+
+
+
+python killbot_command_scanner.py /
