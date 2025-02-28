@@ -113,7 +113,7 @@ class search_for_file_ext:
 		except:
 			pass
 
-		with open("")
+		#with open("")
 
 
 	def op_read(self,filename):
